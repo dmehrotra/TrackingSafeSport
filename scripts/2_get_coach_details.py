@@ -63,6 +63,4 @@ print("DETAILS::Scraping: " + coach[0])
 scrape(coach)
 
 
-#import code; code.interact(local=dict(globals(), **locals()))
-
 
